@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dapper-d" alt="dapper-d" /></a> </p>
 
-- 🔭 I’m currently working on [A GPT-3 website](https://github.com/Dapper-D/gpt3_dapper_d)
+- 🔭 Just got off working on [A 1inch clone website](https://github.com/Dapper-D/1inch-clone)
 
 - 🌱 I’m currently learning **React**
 
