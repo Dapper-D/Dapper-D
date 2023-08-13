@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dapper-D?tab=repositories](https://github.com/Dapper-D?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JS, REACT**
+- 💬 Ask me about **HTML, CSS, JS, REACT and tailwind**
 
 - 📫 How to reach me **oladapoomoworare@gmail.com**
 
