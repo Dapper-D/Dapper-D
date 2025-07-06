@@ -1,7 +1,7 @@
 ![MasterHead ](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fksr-ugc.imgix.net%2Fassets%2F025%2F524%2F780%2Fd9d00ec4b02230bc0d5860539ae0cb96_original.gif%3Fixlib%3Drb-2.1.0%26w%3D680%26fit%3Dmax%26v%3D1560858868%26auto%3Dformat%26gif-q%3D50%26q%3D92%26s%3D1800df9f332de6bb3bbfefa2e7f5e769&f=1&nofb=1&ipt=315d55606cfaa264a754ade1d66be6481e465cecf0d612a7cf5e832e5061f751&ipo=images)
 
 <h1 align="center">Hi 👋, I'm Dapper-D</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend developer in Vancouver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dapper-d&label=Profile%20views&color=0e75b6&style=plastic" alt="dapper-d" /> </p>
 
