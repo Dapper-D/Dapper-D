@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dapper-d" alt="dapper-d" /></a> </p>
 
-- 🔭 Just got off working on [A 1inch clone website](https://github.com/Dapper-D/1inch-clone)
+- 🔭 Just got off working on [A lawyer helper app](https://lawyer-up-xi.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dapper-D?tab=repositories](https://github.com/Dapper-D?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JS, REACT, PYTHON and tailwind**
+- 💬 Ask me about **HTML, CSS, JS, REACT, PYTHON and TAILWIND**
 
 - 📫 How to reach me **oladapoomoworare@gmail.com**
 
-- 📄 Know about my experiences [https://main-portfolio-eta-gold.vercel.app](https://main-portfolio-eta-gold.vercel.app)
+- 📄 Know about my experiences [LINK](https://main-portfolio-eta-gold.vercel.app)
 
 - ⚡ Fun fact **I breathe air.**
 
