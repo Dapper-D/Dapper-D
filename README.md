@@ -9,21 +9,19 @@
 
 - 🔭 Just got off working on [A 1inch clone website](https://github.com/Dapper-D/1inch-clone)
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Dapper-D?tab=repositories](https://github.com/Dapper-D?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JS, REACT and tailwind**
+- 💬 Ask me about **HTML, CSS, JS, REACT, PYTHON and tailwind**
 
 - 📫 How to reach me **oladapoomoworare@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WmSK8NnBHxXxxBeWWuC96wXp997EgQdK/view?usp=sharing](https://drive.google.com/file/d/1WmSK8NnBHxXxxBeWWuC96wXp997EgQdK/view?usp=sharing)
+- 📄 Know about my experiences [https://main-portfolio-eta-gold.vercel.app](https://main-portfolio-eta-gold.vercel.app)
 
 - ⚡ Fun fact **I breathe air.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oladapo omoworare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oladapo omoworare" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/xander-omo-1b93aa18b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oladapo omoworare" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
