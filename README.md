@@ -15,7 +15,7 @@ Welcome to my portfolio — a modern, full-stack, AI-powered developer showcase 
 This isn’t just a site — it’s a statement of technical mastery.
 
 📫 **Contact:** oladapoomoworare@gmail.com
-📂 **GitHub:** [github.com/Dapper-D-source](https://github.com/Dapper-D-source)
+📂 **GitHub:** [github.com/Dapper-D](https://github.com/Dapper-D)
 
 I’m **Xander wolfe** — an elite-level **AI Developer**, **Full-Stack Engineer**, and automation architect. I build intelligent systems that scale, and interfaces that inspire.
 
