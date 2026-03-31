@@ -9,15 +9,14 @@
 
 
 
-# 💼 Xander Wolfe — AI & Full-Stack Developer Portfolio
 
-Welcome to my portfolio — a modern, full-stack, AI-powered developer showcase built with **React**, **Tailwind CSS**, and **Vite.js**.  
+Welcome to my portfolio — a modern, full-stack developer showcase built with **React**, **Tailwind CSS**, and **Vite.js**.  
 This isn’t just a site — it’s a statement of technical mastery.
 
 📫 **Contact:** xanderwolfe97@gmail.com
 📂 **GitHub:** [github.com/Dapper-D](https://github.com/Dapper-D)
 
-I’m **Xander wolfe** — an elite-level **AI Developer**, **Full-Stack Engineer**, and automation architect. I build intelligent systems that scale, and interfaces that inspire.
+I’m **Xander wolfe** — **Full-Stack Engineer**, and automation architect. I build intelligent systems that scale, and interfaces that inspire.
 
 - 🧠 **AI & Machine Learning** — OpenAI, LangChain, Python NLP, RAG pipelines.
 - ⚙️ **Full-Stack Development** — React, Node.js, Express, MongoDB, Firebase.
