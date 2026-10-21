@@ -11,7 +11,7 @@
 Welcome to my portfolio — a modern, full-stack developer showcase built with **React**, **Tailwind CSS**, and **Vite.js**.  
 This isn’t just a site — it’s a statement of technical mastery.
 
-📫 **Contact:** xanderwolfe97@gmail.com
+📫 **Contact:** oladapoomoworare@gmail.com
 📂 **GitHub:** [github.com/Dapper-D](https://github.com/Dapper-D)
 
 I’m **Dapo Omoworare** — **Full-Stack Engineer**, and automation architect. I build intelligent systems that scale, and interfaces that inspire.
